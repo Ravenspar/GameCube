@@ -2,7 +2,7 @@
 *.o
 *.so
 *.dll
-
+.*/
 # Ignore images
 *.png
 *.jpg
