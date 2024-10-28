@@ -1,6 +1,11 @@
 #include <iostream>
 
-int main(){
+void foo()
+{
+
+}
+int main()
+{
 	int a = 10;
 	int b = 25;
 	std::cout << &a << std::endl;
